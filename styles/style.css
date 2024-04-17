@@ -160,6 +160,7 @@ body * {
     flex: 1;
     background: #EEEEEE;
     padding: 41px 71px;
+    overflow-y: auto;
 }
 
 .content__heading {
